@@ -1,6 +1,6 @@
 # Pandas
-####Pandas and NumPy for Data Analysis 
-#####This project covers data preprocessing, manipulation, and analysis using Pandas and NumPy in Python. Below are the key steps followed: 
+#### Pandas and NumPy for Data Analysis. 
+##### This project covers data preprocessing, manipulation, and analysis using Pandas and NumPy in Python. Below are the key steps followed: 
 ## Step 1: Introduction 
 #####  Pandas is a Python library for data manipulation and analysis. 
 #####  NumPy provides fast numerical operations and serves as the foundation for Pandas. 
